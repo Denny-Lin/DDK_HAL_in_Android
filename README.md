@@ -8,7 +8,8 @@ https://source.android.google.cn/devices/architecture &nbsp;
 https://www.youtube.com/watch?v=gFOXM-CY8mQ &nbsp;
 
 # Where can we find HAL?
-https://android.googlesource.com/platform/hardware &nbsp;
+https://android.googlesource.com/platform/hardware <br/>
+hardware/libhardware/include/hardware &nbsp;
 
 # How to create your HAL?
 https://zhuanlan.zhihu.com/p/441227958 &nbsp;
