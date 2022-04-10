@@ -1,5 +1,5 @@
 # DDK_HAL_in_Android
-Hardware abstractions are sets of routines in software that provide programs with access to hardware resources through programming interfaces.
+A HAL defines a standard interface for hardware vendors to implement, which enables Android to be agnostic about lower-level driver implementations. &nbsp;
 
 # What is HAL?
 https://source.android.google.cn/devices/architecture &nbsp;
