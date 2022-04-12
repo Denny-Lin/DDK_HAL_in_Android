@@ -9,7 +9,12 @@ https://www.youtube.com/watch?v=gFOXM-CY8mQ &nbsp;
 
 # Where can we find HAL?
 https://android.googlesource.com/platform/hardware <br/>
+
+### Legacy
 hardware/libhardware/include/hardware &nbsp;
+
+### HIDL
+hardware/interfaces/ &nbsp;
 
 # How to create your HAL?
 https://zhuanlan.zhihu.com/p/441227958 &nbsp;
