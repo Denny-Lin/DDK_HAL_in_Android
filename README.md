@@ -21,12 +21,14 @@ https://android.googlesource.com/platform/hardware <br/>
 ### HIDL
 ./hardware/interfaces/ &nbsp;
 
-# Use HIDL to connect your HAL
+# Use HIDL to connect to your HAL
 https://zhuanlan.zhihu.com/p/441227958 &nbsp;
 
 # AIDL for HALs
 https://source.android.google.cn/devices/architecture/aidl/aidl-hals <br/>
-https://www.youtube.com/watch?v=M6extgmQQNw &nbsp;
+https://www.youtube.com/watch?v=M6extgmQQNw <br/>
+![Screen Shot 2022-05-01 at 10 30 27 AM](https://user-images.githubusercontent.com/67073582/166129645-616ed552-120a-4142-8370-6dc03e52b78a.png) &nbsp;
+
 
 # References
 https://www.youtube.com/watch?v=UFaWqdxBW4E &nbsp;
