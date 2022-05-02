@@ -2,8 +2,10 @@
 A HAL defines a standard interface for hardware vendors to implement, which enables Android to be agnostic about lower-level driver implementations. &nbsp;
 
 # From top to bottom
+### Java Architecture
 ![Screen Shot 2022-04-24 at 6 09 08 AM](https://user-images.githubusercontent.com/67073582/164948344-eafad4b1-7b17-4c5e-978d-4e5d2423e5ba.png)
 
+### C++ Architecture
 ![Screen Shot 2022-04-24 at 6 10 31 AM](https://user-images.githubusercontent.com/67073582/164948346-442bcf32-cb6e-49bc-808e-a03fe93aebcd.png)
 
 # What is HAL?
