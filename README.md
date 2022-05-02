@@ -15,13 +15,19 @@ https://www.youtube.com/watch?v=gFOXM-CY8mQ &nbsp;
 # Where can we find HAL?
 https://android.googlesource.com/platform/hardware <br/>
 
-### HAL
+### HAL Legacy
+./hardware/libhardware_legacy/ &nbsp;
+
+### HAL Stub
 ./hardware/libhardware/ &nbsp;
 
-### HIDL
+### HIDL 
 ./hardware/interfaces/ &nbsp;
 
-# Use HIDL to connect to your HAL
+### AIDL 
+./hardware/interfaces/ &nbsp;
+
+# HIDL for HALs
 Because of Treble, use HIDL to define the interface(API) between system.img and vendor.img. <br/>
 
 ![image](https://user-images.githubusercontent.com/67073582/166171372-a8e305fc-1fae-49c6-8f55-a609f19689eb.png) <br/>
