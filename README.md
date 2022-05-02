@@ -22,6 +22,10 @@ https://android.googlesource.com/platform/hardware <br/>
 ./hardware/interfaces/ &nbsp;
 
 # Use HIDL to connect to your HAL
+Because of Treble, use HIDL to define the interface(API) between system.img and vendor.img. <br/>
+
+![image](https://user-images.githubusercontent.com/67073582/166171372-a8e305fc-1fae-49c6-8f55-a609f19689eb.png) <br/>
+
 http://www.max-shu.com/blog/?p=1075 <br/>
 https://zhuanlan.zhihu.com/p/441227958 &nbsp;
 
