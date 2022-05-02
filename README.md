@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=gFOXM-CY8mQ &nbsp;
 # Where can we find HAL?
 https://android.googlesource.com/platform/hardware <br/>
 
-### Legacy
-./hardware/libhardware/include/hardware &nbsp;
+### HAL
+./hardware/libhardware/ &nbsp;
 
 ### HIDL
 ./hardware/interfaces/ &nbsp;
