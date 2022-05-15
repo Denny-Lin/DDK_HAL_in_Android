@@ -37,7 +37,16 @@ Because of Treble, use HIDL to define the interface(API) between system.img and 
 ![image](https://user-images.githubusercontent.com/67073582/166171372-a8e305fc-1fae-49c6-8f55-a609f19689eb.png) <br/>
 
 http://www.max-shu.com/blog/?p=1075 <br/>
+https://www.796t.com/content/1544773146.html <br/>
+https://ithelp.ithome.com.tw/articles/10221507 </br>
 https://zhuanlan.zhihu.com/p/441227958 &nbsp;
+
+## Steps
+mkdir -p hardware/interfaces/DDK/1.0/default <br/>
+Code the IDDK.hidl <br/>
+Use update-makefiles.sh to generate Android.bp <br/>
+Use hidl-gen .c and .h<br/>
+
 
 # AIDL for HALs
 https://source.android.google.cn/devices/architecture/aidl/aidl-hals <br/>
