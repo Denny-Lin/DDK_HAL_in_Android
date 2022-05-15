@@ -12,7 +12,7 @@ A HAL defines a standard interface for hardware vendors to implement, which enab
 https://source.android.google.cn/devices/architecture &nbsp;
 
 # Why do we need HAL in Android?
-Protect the source code from the vendor.<br/>
+Protect the source code of the vendor from open source licenses.<br/>
 
 https://www.youtube.com/watch?v=gFOXM-CY8mQ &nbsp;
 
