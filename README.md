@@ -39,7 +39,7 @@ Because of Treble, use HIDL to define the interface(API) between system.img and 
 http://www.max-shu.com/blog/?p=1075 <br/>
 https://www.796t.com/content/1544773146.html <br/>
 https://ithelp.ithome.com.tw/articles/10221507 </br>
-https://zhuanlan.zhihu.com/p/441227958 </br?
+https://zhuanlan.zhihu.com/p/441227958 </br>
 https://source.android.com/devices/architecture/hidl-cpp nbsp;
 
 ## Steps
