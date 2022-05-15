@@ -39,14 +39,14 @@ Because of Treble, use HIDL to define the interface(API) between system.img and 
 http://www.max-shu.com/blog/?p=1075 <br/>
 https://www.796t.com/content/1544773146.html <br/>
 https://ithelp.ithome.com.tw/articles/10221507 </br>
-https://zhuanlan.zhihu.com/p/441227958 &nbsp;
+https://zhuanlan.zhihu.com/p/441227958 </br?
+https://source.android.com/devices/architecture/hidl-cpp nbsp;
 
 ## Steps
 1. mkdir -p hardware/interfaces/DDK/1.0/default <br/>
 2. Code the IDDK.hidl <br/>
 3. Use update-makefiles.sh to generate Android.bp <br/>
 4. Use hidl-gen to generate .c and .h<br/>
-
 
 # AIDL for HALs
 https://source.android.google.cn/devices/architecture/aidl/aidl-hals <br/>
