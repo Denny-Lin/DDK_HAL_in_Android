@@ -45,7 +45,7 @@ https://zhuanlan.zhihu.com/p/441227958 &nbsp;
 mkdir -p hardware/interfaces/DDK/1.0/default <br/>
 Code the IDDK.hidl <br/>
 Use update-makefiles.sh to generate Android.bp <br/>
-Use hidl-gen .c and .h<br/>
+Use hidl-gen to generate .c and .h<br/>
 
 
 # AIDL for HALs
